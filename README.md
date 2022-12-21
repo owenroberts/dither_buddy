@@ -1,4 +1,5 @@
 Blender file and script to add dither to noise for animation backgrounds.
+Based on https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html
 
 How to use
 - Run blender from command line
